@@ -3,7 +3,7 @@ This is an e-commerce store that displays items available in the store with thei
 
 ## User Design Interface
 When in the initial stage of developing the site this was the UI design that was created.<br>
-                  <h5>Images to be Added</h5>
+                  <h6>Images to be Added</h6>
 
 ## Live Demonstration
 The E-commerce website can be <a href = "https://phyleria.github.io/"> Viewed Here</a><br>
