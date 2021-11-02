@@ -10,5 +10,5 @@ The E-commerce website can be <a href = "https://phyleria.github.io/"> Viewed He
 <h6>Please take note that changes are still being made so the website might be out of service at times</h6>
 
 ## Getting Started
-To get started, first clone the this repository using this link: 
+To get started, first clone the this repository using this link: https://github.com/phyleria/Afri-Clad-Major-Store.git
                   
