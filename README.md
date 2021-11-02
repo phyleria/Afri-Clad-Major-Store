@@ -26,7 +26,7 @@ Lastly,run the application using this command:
 ```bash
 npm start
 ```
-And Yess!! You're up and running
+And Yess!! You're up and running😄
 
 ## Tech Stack
 Node.js
