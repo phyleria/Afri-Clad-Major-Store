@@ -6,5 +6,5 @@ When in the initial stage of developing the site this was the UI design that was
                   # Images to be Added
 
 ## Live Demonstration
-The E-commerce website can will be viewed on 
+The E-commerce website can be <a href = "https://phyleria.github.io/"> Viewed Here</a>
                   
