@@ -8,4 +8,7 @@ When in the initial stage of developing the site this was the UI design that was
 ## Live Demonstration
 The E-commerce website can be <a href = "https://phyleria.github.io/"> Viewed Here</a><br>
 <h6>Please take note that changes are still being made so the website might be out of service at times</h6>
+
+## Getting Started
+To get started, first clone the this repository using this link: 
                   
