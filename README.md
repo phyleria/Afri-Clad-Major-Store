@@ -28,6 +28,10 @@ npm start
 ```
 And Yess!! You're up and running
 
+## Tech Stack
+Node.js
+
+
 
 
                   
