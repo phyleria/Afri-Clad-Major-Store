@@ -18,6 +18,13 @@ cd Afri-Clad-Major-Store
 
 Next, Install Dependencies with this command:
 ```bash
+npm install
+```
+Lastly,run the application using this command:
+```bash
+npm start
+```
+
 
 
                   
