@@ -4,4 +4,7 @@ This is an e-commerce store that displays items available in the store with thei
 ## User Design Interface
 When in the initial stage of developing the site this was the UI design that was created.<br>
                   # Images to be Added
+
+## Live Demonstration
+The E-commerce website can will be viewed on 
                   
