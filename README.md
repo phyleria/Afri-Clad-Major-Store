@@ -12,4 +12,7 @@ The E-commerce website can be <a href = "https://phyleria.github.io/"> Viewed He
 ## Getting Started
 To get started, first clone the repository using this command:<br>
 ```Git clone https://github.com/phyleria/Afri-Clad-Major-Store.git```
+
+Next, Install Dependencies with this command:
+```
                   
